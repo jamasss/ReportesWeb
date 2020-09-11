@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWebMVC.csproj": {}
+    "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWeb\\ReportesWebMVC\\ReportesWebMVC.csproj": {}
   },
   "projects": {
-    "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWebMVC.csproj": {
+    "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWeb\\ReportesWebMVC\\ReportesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWebMVC.csproj",
+        "projectUniqueName": "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWeb\\ReportesWebMVC\\ReportesWebMVC.csproj",
         "projectName": "ReportesWebMVC",
-        "projectPath": "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWebMVC.csproj",
+        "projectPath": "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWeb\\ReportesWebMVC\\ReportesWebMVC.csproj",
         "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-        "outputPath": "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\obj\\",
+        "outputPath": "E:\\Documentos Mauricio\\1_ACADEMICO\\VSCode\\ReportesWebMVC\\ReportesWeb\\ReportesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config"
